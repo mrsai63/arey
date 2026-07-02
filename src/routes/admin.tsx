@@ -102,7 +102,7 @@ function AdminPage() {
             {loginError && (
               <div className="flex items-center gap-2 rounded-xl bg-destructive/10 border border-destructive/20 p-3 text-xs text-destructive">
                 <AlertTriangle className="h-4 w-4 shrink-0" />
-                <span>Invalid passcode. Default passcode is <code className="font-mono bg-destructive/20 px-1 py-0.5 rounded">admin123</code>.</span>
+                <span>Invalid passcode. Default passcode is <code className="font-mono bg-destructive/20 px-1 py-0.5 rounded">niku endhuku ra badkowwww</code>.</span>
               </div>
             )}
 
