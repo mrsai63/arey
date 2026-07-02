@@ -9,8 +9,8 @@ import { useCMS } from "@/hooks/useCMS";
 export const Route = createFileRoute("/about")({
   head: () => ({
     meta: [
-      { title: "About — Brand Shoots" },
-      { name: "description", content: "Meet Brand Shoots — a creative & performance studio building brands across India." },
+      { title: "About — Brand Shoots uppal balu " },
+      { name: "description", content: "Meet Brand Shoots by uppal balu — a creative & performance studio building brands across India." },
       { property: "og:title", content: "About — Brand Shoots" },
       { property: "og:description", content: "A creative & performance studio building brands across India." },
       { property: "og:url", content: "/about" },
